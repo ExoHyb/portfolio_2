@@ -1,0 +1,27 @@
+body {
+  font-family: 'Karla', sans-serif;
+}
+
+.design-header {
+  border-top: 1px solid #E1E1E1;
+  border-bottom: 1px solid #E1E1E1;
+  background-color: #F9F9F9;
+  margin-top: 3em;
+}
+
+#nav-principal ul {
+  list-style-type: none;
+}
+#nav-principal li {
+  display: inline-block;
+  padding: 0 1em;
+}
+#nav-principal a {
+  color: #666;
+}
+#nav-principal a:hover {
+  color: #000;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=style.css.map */
